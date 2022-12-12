@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: rgb(255, 51, 0);
+    width: 100%;
+    height: 80px;
+    position: relative;
+}
+.logo{
+    height: 55px;
+    width: 50px;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+}
+img{
+    height: 50px;
+    width: 100%;
+    position: absolute;
+}
+li{
+    display: inline-block;
+}
+a{
+    color: rgb(4, 8, 247);
+    display: inline-block;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+p{
+    position: absolute;
+    top: 30px;
+    left: 80px;
+
+}
+#navlinks{
+    position: absolute;
+    top: 18px;
+    left: 15%;
+}
+.zig{
+    border: none;
+    background-color: aqua;
+    padding: 10px 10px;
+    margin-left: 500px;
+    border-radius: 8px;
+
+}
+.zag{
+    border: none;
+    background-color: rgb(116, 198, 223);
+    padding: 10px 10px;
+    border-radius: 8px;
+}
